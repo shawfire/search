@@ -1,3 +1,4 @@
+```
 520  mkdir search
   521  pwd
   522  cd search
@@ -10,3 +11,4 @@
   529  touch lib/search.rb
   530  rspec
   531  atom .
+```
